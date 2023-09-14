@@ -2,6 +2,8 @@
 __________
 **Prérequis**  
 
+![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/6a9cbc60-279d-42ed-bbba-cf5227df5939)
+
 ![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/8a6c1bed-b5c1-48fd-abcb-6fa1da06e56f)
 
 ![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/53381d93-0700-472e-a456-3ffc271cb908)
