@@ -1,6 +1,6 @@
-# Installation de Proxmox sur une machine virtuelle
+# Installation de Proxmox Virtual Environnement sur une VM
 __________
-**Prérequis**  
+## **Prérequis paramètres**  
 
 ![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/6a9cbc60-279d-42ed-bbba-cf5227df5939)
 
@@ -12,7 +12,9 @@ __________
 
 _____________
 
-![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/6e787a16-ba60-4a5a-ae4b-826e3c1a2117)
+## **Une fois l'installation de proxmox terminée, connection sur la page web de proxmox indiquée dans la CLI.
+**Login de la CLI par défaut : "root" + mot de passe**
 
+![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/99338f88-cf43-4cf3-bb36-fa2fe49a9a62)
 
 
