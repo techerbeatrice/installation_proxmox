@@ -23,5 +23,10 @@ _____________
 
 ![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/73213d78-73aa-422b-a6e1-3c15e4d96fb0)
 
+____________
+
+**Mise à jour des paquets en CLI**
+
+![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/fa203983-8b55-4df3-9e42-56dd44b314d6)
 
 
