@@ -15,7 +15,7 @@ __________
 _____________
 
 ## **Une fois l'installation de proxmox terminée, connection sur la page web de proxmox indiquée dans la CLI.**
-**Login de la CLI et de la GUI par défaut : "root" + mot de passe**
+**Login en CLI et en GUI par défaut : "root" + mot de passe**
 
 ![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/63845cf7-00ad-45a1-9b40-5b9014a1b390)
 
