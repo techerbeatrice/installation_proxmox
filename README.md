@@ -14,11 +14,12 @@ __________
 
 _____________
 
-## **Une fois l'installation de proxmox terminée, connection sur une autre machine en réseau par pont, sur la page web de proxmox indiquée dans la CLI.
+## **Une fois l'installation de proxmox terminée, connection sur une autre machine en réseau par pont, sur la page web de proxmox indiquée dans la CLI.**
 **Login de la CLI par défaut : "root" + mot de passe**
 
 ![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/99338f88-cf43-4cf3-bb36-fa2fe49a9a62)
 
-![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/2585deef-e869-4194-a39b-59a8f734bf01)
+![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/73213d78-73aa-422b-a6e1-3c15e4d96fb0)
+
 
 
