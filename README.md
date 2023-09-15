@@ -4,8 +4,6 @@ __________
 
 **VM configurée en Réseau par pont**
 
-![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/6a9cbc60-279d-42ed-bbba-cf5227df5939)
-
 ![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/06468473-3c32-41d4-8c30-4c944852e88b)
 
 ![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/8a6c1bed-b5c1-48fd-abcb-6fa1da06e56f)
@@ -14,7 +12,7 @@ __________
 
 ![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/a78f72bb-2d57-41b6-96d1-1aa32003a3ce)
 
-
+![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/6a9cbc60-279d-42ed-bbba-cf5227df5939)
 
 _____________
 
