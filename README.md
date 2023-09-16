@@ -23,6 +23,7 @@ _____________
 
 ![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/2b7391af-79a8-401d-8bb5-5ae65cc2e9cd)
 
+![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/5efe7b3c-8d40-4f02-b888-a6070a57cd93)
 
 
 
