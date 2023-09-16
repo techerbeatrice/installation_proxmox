@@ -19,14 +19,11 @@ _____________
 ## **Une fois l'installation de proxmox terminée, connection sur la page web de proxmox indiquée dans la CLI.**
 **Login en CLI et en GUI par défaut : "root" + mot de passe**
 
-![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/63845cf7-00ad-45a1-9b40-5b9014a1b390)
+![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/9c5b0a2f-5540-4131-b4eb-c31be92d04a0)
 
-![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/43d784e0-405b-483c-9e86-7e1724c04c3e)
+![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/2b7391af-79a8-401d-8bb5-5ae65cc2e9cd)
 
-____________
 
-**Mise à jour des paquets en CLI**
 
-![image](https://github.com/techerbeatrice/installation_proxmox/assets/138071140/fa203983-8b55-4df3-9e42-56dd44b314d6)
 
 
